@@ -1,0 +1,22 @@
+body {
+    background-color: deepskyblue;
+}
+
+h1, footer {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+article {
+    text-align: center;
+    margin: auto;
+    border-radius: 25px;
+    padding: 3%;
+    background-color: whitesmoke;
+    width: 450px;
+}
+
+#res{
+    text-align: justify;
+}
